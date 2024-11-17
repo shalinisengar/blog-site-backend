@@ -8,8 +8,13 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
-    "express": "^4.21.1"
+    "express": "^4.21.1",
+    "mongodb": "^2.0.14",
+    "mongoose": "^8.8.1"
+  },
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
   }
 }
